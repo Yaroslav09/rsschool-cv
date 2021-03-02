@@ -3,13 +3,13 @@
 ---
 ## Contact information
 **location:** [Ivano-Frankivsk, Ukraine]
-[linkedin] 
-[Facebook]
-[Telegram]
-[Githab]
-[Gmail]
-**Skype:** [live:yarik09_2][skype]
-**Phone / Viber:** [+380979244047][phone]                                  
+  - [linkedin] 
+  - [Facebook]
+  - [Telegram]
+  - [Githab]
+  - [Gmail]
+  - **Skype:** [live:yarik09_2][skype]
+  - **Phone / Viber:** [+380979244047][phone]                                  
 
 ## About me
 I have been a teacher at the college for 16 years. During this time I have developed such skills as communication, self-organization, time management, self-study, self-development, the ability to speak in public, working in a large team, working with people of different ages, the ability to find common ground with different people, patience, perseverance, respect for others, the ability to cope with stress. Generally, I have professional skills specific to teachers.
@@ -41,7 +41,7 @@ console.log( pow(2, 3));
 
 For study web development I use these free resources: [W3school], [Freecodecamp], [Javascript.info] and many others. I read books and watch video lessons on youtube.
 
-### English level: A1-A2.
+## English level: A1-A2.
 I used this site [ESL Video] for two months to improve my conversation skills. I had three online meetings during the week. For one hour I had a conversational practice with people from other countries. But now online meetings do not available. 	
 
 
